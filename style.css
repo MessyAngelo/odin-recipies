@@ -1,0 +1,16 @@
+/* styles.css */
+
+*{background-color: blanchedalmond;}
+.image {margin-left:700px; height: auto; width: 100px;}
+
+  .text {color: chocolate;margin-left: 700px;}
+
+
+
+.content{ text-align: center;}
+
+.desc{color:royalblue; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.head {margin-left: 700px; color: royalblue; 
+
+}
